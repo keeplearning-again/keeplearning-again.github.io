@@ -5,12 +5,748 @@
     <link>https://keeplearning-again.github.io/tag/academic/</link>
       <atom:link href="https://keeplearning-again.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://keeplearning-again.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>https://keeplearning-again.github.io/tag/academic/</link>
     </image>
+    
+    <item>
+      <title>Typora&#43;Markdown快速入门</title>
+      <link>https://keeplearning-again.github.io/post/markdown&#43;typora/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://keeplearning-again.github.io/post/markdown&#43;typora/</guid>
+      <description>&lt;h2 id=&#34;typoramarkdown快速入门&#34;&gt;Typora+Markdown快速入门&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;why-markdown&#34;&gt;Why Markdown?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;支持$\LaTeX$语法、代码高亮、公式编辑块&lt;/li&gt;
+&lt;li&gt;自定义主题设定&lt;/li&gt;
+&lt;li&gt;自动排版、大纲面板可视化&lt;/li&gt;
+&lt;li&gt;实时预览&lt;/li&gt;
+&lt;li&gt;“打字模式+专注模式” yyds!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;各种快捷用法&#34;&gt;各种快捷用法&lt;/h2&gt;
+&lt;h3 id=&#34;标题分级&#34;&gt;标题分级&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;列表&#34;&gt;列表&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;无序列表 (&lt;code&gt;&#39;-&#39;&lt;/code&gt;+ &lt;code&gt;&#39;space&#39;&lt;/code&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;有序列表 ( &lt;code&gt;Number&lt;/code&gt; + &lt;code&gt;.&lt;/code&gt;+ &lt;code&gt;&#39;space&#39;&lt;/code&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 任务列表 (已经设置好的快捷键 ctrl + shift + x)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;公式&#34;&gt;公式&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;行内公式 $$&lt;/li&gt;
+&lt;li&gt;行间公式 (先输入$$ 然后enter)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;$$
+F = ma
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;代码块&#34;&gt;代码块&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;``` + enter&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;pass&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h3 id=&#34;文本格式&#34;&gt;文本格式&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;**加粗**&lt;/code&gt; &amp;ndash;&amp;gt; &lt;strong&gt;加粗&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;*斜体*&lt;/code&gt; &amp;ndash;&amp;gt; &lt;em&gt;斜体&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;下划线&lt;/u&gt; &amp;ndash;&amp;gt; 快捷键 Ctrl + U&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;==高亮==&lt;/code&gt; &amp;ndash;&amp;gt; ==高亮==&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;生成思维导图&#34;&gt;生成思维导图&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302011638203.png&#34; alt=&#34;image-20230201163841129&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;页内跳转&#34;&gt;页内跳转&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;[try](#公式) &lt;/code&gt; 公式必须是前面有的模块&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#%e5%85%ac%e5%bc%8f&#34;&gt;try&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;引用&#34;&gt;引用&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;插入视频&#34;&gt;插入视频&lt;/h3&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=204834300&amp;bvid=BV1gh411D753&amp;cid=314330519&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+&lt;p&gt;到视频下方复制代码 直接粘贴&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302011715496.png&#34; alt=&#34;image-20230201171538234&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;隐藏&#34;&gt;隐藏&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;details&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;summary&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;点击查看详细内容&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;summary&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;展开的内容
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;details&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;details&gt;
+&lt;summary&gt;点击查看详细内容&lt;/summary&gt;
+展开的内容
+&lt;/details&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computer vision basic tasks</title>
+      <link>https://keeplearning-again.github.io/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E4%BB%BB%E5%8A%A1/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://keeplearning-again.github.io/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E4%BB%BB%E5%8A%A1/</guid>
+      <description>&lt;h2 id=&#34;计算机视觉任务&#34;&gt;计算机视觉任务&lt;/h2&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302021825208.png&#34; alt=&#34;image-20230202182528109&#34; style=&#34;zoom:67%;&#34; /&gt;
+&lt;p&gt;主要分为几大类：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;输入一张完整图像 &amp;ndash;&amp;gt; single label（single object）&amp;ndash;&amp;gt; ==&lt;strong&gt;classification&lt;/strong&gt;==&lt;/li&gt;
+&lt;li&gt;输入一张完整图像 &amp;ndash;&amp;gt; single object + anchor&amp;ndash;&amp;gt; ==&lt;strong&gt;classification + localization&lt;/strong&gt;==&lt;/li&gt;
+&lt;li&gt;输入一张完整图像 &amp;ndash;&amp;gt; multiple object anchors&amp;ndash;&amp;gt; ==&lt;strong&gt;object detection&lt;/strong&gt;==&lt;/li&gt;
+&lt;li&gt;输入一张完整图像 &amp;ndash;&amp;gt; 每一个对象具体的pixel&amp;ndash;&amp;gt; ==&lt;strong&gt;segmentation&lt;/strong&gt;==
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;semantic segmentation &amp;ndash;&amp;gt; 让每一个pixel都有一个label&lt;/li&gt;
+&lt;li&gt;instance segmentation &amp;ndash;&amp;gt; 区分每一个物体&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;机器学习和神经网络简介&#34;&gt;机器学习和神经网络简介&lt;/h2&gt;
+&lt;h3 id=&#34;机器学习的典型范式&#34;&gt;机器学习的典型范式&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;监督学习&lt;/li&gt;
+&lt;li&gt;无监督学习&lt;/li&gt;
+&lt;li&gt;自监督学习&lt;/li&gt;
+&lt;li&gt;强化学习&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;交叉熵损失函数----极大似然估计&#34;&gt;交叉熵损失函数 &amp;ndash; 极大似然估计&lt;/h3&gt;
+&lt;p&gt;对于预测的类别概率$P \in [0, 1]^K$和类别真值$y \in \left[1, \cdots, K \right]$,定义交叉熵损失为：
+$$
+L(P, y) = - logP_y
+$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302022341081.png&#34; alt=&#34;image-20230202234122934&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302022343225.png&#34; alt=&#34;image-20230202234321173&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;反向传播算法&#34;&gt;反向传播算法&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302022344490.png&#34; alt=&#34;image-20230202234418393&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;推荐热门ai研究方向&#34;&gt;推荐热门AI研究方向&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;人工智能的可解释性分析、显著性分析&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;图机器学习、图神经网络（AlphaFold2）、知识图谱&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;人工智能+VR/AR/数字人/元宇宙&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;轻量化压缩部署：Web前端、智能手机、服务器、嵌入式硬件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Al4Science：天文、物理、蛋白质预测、药物设计、数学证明&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;做各行各业垂直细分领域的人工智能应用&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;神经辐射场（NERF）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;扩散生成模型（Diffusion）、AIGC、跨模态预训练大模型&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;隐私计算、联邦学习、可信计算&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AI基础设施平台（数据、算力、教学、开源、算法工具包）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;认知科学+类脑计算+计算神经科学&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Some ChatGPT findings</title>
+      <link>https://keeplearning-again.github.io/post/chatgpt%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://keeplearning-again.github.io/post/chatgpt%E6%80%BB%E7%BB%93/</guid>
+      <description>&lt;h2 id=&#34;明确chatgpt能解决问题的边界&#34;&gt;明确ChatGPT能解决问题的边界&lt;/h2&gt;
+&lt;div class=&#34;mermaid&#34;&gt;graph TD;
+世界上有很多问题其中只有一小部分是数学问题 --&gt; 在数学问题中只有一小部分是有解的 --&gt; 在有解的问题中只有一部分是理想状态的图灵机通过有限步骤可以解决的 --&gt; 在后一类的问题中又只有一部分是今天实际的计算机可以解决的 --&gt; 而人工智能可以解决的问题又只是计算机可以解决问题的一部分
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;故我们可知 我们无法让chatGPT直接预测明天地球会不会毁灭 即使人类也无法给出答案&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;基本原理&#34;&gt;基本原理&lt;/h2&gt;
+&lt;p&gt;本质上就是大规模语言模型 按照概率输出结果&lt;/p&gt;
+&lt;p&gt;他的输出是基于之前训练输入的数据和过往的标记数据得到的结果&lt;/p&gt;
+&lt;h2 id=&#34;能做什么呢&#34;&gt;能做什么呢&lt;/h2&gt;
+&lt;h3 id=&#34;选择一个主题&#34;&gt;选择一个主题&lt;/h3&gt;
+&lt;p&gt;我可以帮助你选择一个既有趣又与你的研究领域相关的题目。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302211610876.png&#34; alt=&#34;image-20230221161003710&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302211610456.png&#34; alt=&#34;image-20230221161028376&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;制定提纲&#34;&gt;制定提纲&lt;/h3&gt;
+&lt;p&gt;我可以帮助你创建一个大纲，明确界定你的论文结构，包括导言、正文和结论。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302211612172.png&#34; alt=&#34;image-20230221161217119&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;进行研究&#34;&gt;进行研究&lt;/h3&gt;
+&lt;p&gt;我可以提供进行研究的提示和资源，并寻找可靠的来源来支持你的论点。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302211610537.png&#34; alt=&#34;image-20230221161046474&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302211611738.png&#34; alt=&#34;image-20230221161103655&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302211611833.png&#34; alt=&#34;image-20230221161131752&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302211611949.png&#34; alt=&#34;image-20230221161154883&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;撰写论文&#34;&gt;撰写论文&lt;/h3&gt;
+&lt;p&gt;我可以就如何写出清晰、简明、有条理的句子和段落，有效地传达你的观点提供建议。&lt;/p&gt;
+&lt;h3 id=&#34;修改和编辑&#34;&gt;修改和编辑&lt;/h3&gt;
+&lt;p&gt;我可以就如何修改和编辑你的论文提供反馈，以确保它没有错误并符合学术标准。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302211613104.png&#34; alt=&#34;image-20230221161329025&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;引用资料&#34;&gt;引用资料&lt;/h3&gt;
+&lt;p&gt;我可以指导你如何在论文中正确引用资料，包括使用MLA帮你写作这用方式。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;参考文献全是假的。&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;代码实现&#34;&gt;代码实现&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302211614495.png&#34; alt=&#34;image-20230221161354493&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302211614480.png&#34; alt=&#34;image-20230221161431442&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;注意事项那个&#34;&gt;注意事项那个&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;尽量用英文提问&lt;/li&gt;
+&lt;li&gt;提高归纳概括的能力&lt;/li&gt;
+&lt;li&gt;AI知识助手&lt;/li&gt;
+&lt;li&gt;谨慎乐观的使用&lt;/li&gt;
+&lt;li&gt;数据有泄漏风险&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self-attention mechanism and Transformers</title>
+      <link>https://keeplearning-again.github.io/post/transformer/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://keeplearning-again.github.io/post/transformer/</guid>
+      <description>&lt;h2 id=&#34;1-明确输入输出&#34;&gt;1. 明确输入输出&lt;/h2&gt;
+&lt;h3 id=&#34;将输入转化为vector&#34;&gt;将输入转化为vector&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;文本翻译&lt;/strong&gt; &amp;ndash; 将词汇转化成same length vector（word2vector，one-hot coding）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;信号处理&lt;/strong&gt; &amp;ndash; 生成一段时长的window 将其中内容转化为一个frame vector 然后跳一个gap向前&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;图(graph)&lt;/strong&gt; &amp;ndash; 每一个node的信息汇总成vector vertices单独拎出来和后面attention matrix结合&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;图像&lt;/strong&gt; &amp;ndash; 每一个pixel有三通道的向量 &lt;strong&gt;DETR&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;明确输出类型&#34;&gt;明确输出类型&lt;/h3&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302011214326.png&#34; alt=&#34;image-20230201121424237&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;例子：文本处理词性标注（POS tagging） / 一句话的感情分析（sentiment analysis） /  model自己选择输出大小&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第一类问题sequence-labeling&#34;&gt;第一类问题（Sequence Labeling）&lt;/h2&gt;
+&lt;h3 id=&#34;1-面对的问题&#34;&gt;1. 面对的问题&lt;/h3&gt;
+&lt;h4 id=&#34;1给一个sequence-如何生成corresponding-sequence--labels&#34;&gt;（1）给一个sequence 如何生成corresponding sequence / labels&lt;/h4&gt;
+&lt;p&gt;如果使用单一的fully-connected layers，那么给定的sequence长度随着时间变化，则无法做到泛化&lt;/p&gt;
+&lt;p&gt;因此我们需要一个flexible的方法 不用限定sequence的长度&lt;/p&gt;
+&lt;h4 id=&#34;2如何体现sequence的上下文信息对当前vector的output的影响&#34;&gt;（2）如何体现sequence的上下文信息对当前vector的output的影响&lt;/h4&gt;
+&lt;p&gt;双向RNN能够体现上下文 用一个window将需要考虑的相邻向量容纳进去 但是无法平行计算(parallel &amp;ndash; speedup)&lt;/p&gt;
+&lt;h3 id=&#34;2-self-attention&#34;&gt;2. Self-attention&lt;/h3&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302011215795.png&#34; alt=&#34;image-20230201121536700&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;h4 id=&#34;1-解决的方法&#34;&gt;（1） 解决的方法&lt;/h4&gt;
+&lt;h5 id=&#34;1-attention-score-alpha----体现上下文信息&#34;&gt;1. Attention Score $\alpha$ &amp;ndash; 体现上下文信息&lt;/h5&gt;
+&lt;p&gt;每个input向量之间会计算一个attention score 用来表示相似性 （计算方法有很多例如dot-product / addictive）&lt;/p&gt;
+&lt;h5 id=&#34;2-引入positional-encoding&#34;&gt;2. 引入positional encoding&lt;/h5&gt;
+&lt;p&gt;针对每一个attention layer 无论sequence的顺序如何，他都不影响结果输出，这表示&lt;strong&gt;no position information in self-attention&lt;/strong&gt; &amp;ndash; 天涯若比邻 每个向量之间的距离都是“一样的”&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;引入unique positional vector $e^i$&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2003.09229&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Positional encoding article &amp;ndash; Learning to Encode Position for Transformer with Continuous Dynamical Model&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;2-流程&#34;&gt;（2） 流程&lt;/h4&gt;
+&lt;h5 id=&#34;1-生成每一个向量的query-key-value&#34;&gt;1. 生成每一个向量的Query Key Value&lt;/h5&gt;
+&lt;p&gt;每一层attention layer共享一个Query Key Value matrix $$W^q \ W_k \ W_v$$&lt;/p&gt;
+&lt;p&gt;引入三个变量是为了引入更多可学习的参数，但是共享参数是为了减少训练量&lt;/p&gt;
+&lt;h5 id=&#34;2-q-k-组合生成-alpha--soft-max-后生成-alphaprime&#34;&gt;2. Q K 组合生成 $\alpha$  Soft-max 后生成 $\alpha^{\prime}$&lt;/h5&gt;
+&lt;p&gt;下图为第一个向量与sequence中所有向量的attention score计算示意图&lt;/p&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302011215171.png&#34; alt=&#34;image-20230131095641605&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;h5 id=&#34;3-extract-information-based-on-attention-scores&#34;&gt;3. Extract information based on attention scores&lt;/h5&gt;
+&lt;p&gt;$$
+\boldsymbol{b}^{\mathbf{1}}=\sum_{i} \alpha_{1, i}^{\prime} \boldsymbol{v}^{i}
+$$&lt;/p&gt;
+&lt;h4 id=&#34;3-matrix-representation&#34;&gt;（3） Matrix representation&lt;/h4&gt;
+&lt;div align=center&gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302011215100.png&#34; alt=&#34;image-20230131100815558&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;/div&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302011216960.png&#34; alt=&#34;image-20230131101707040&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302011216302.png&#34; alt=&#34;image-20230131101738724&#34; style=&#34;zoom:50%;&#34; /&gt;
+$$
+\begin{aligned}
+Q &amp;= w^q · I \\
+K &amp;= w^k · I \\  
+V &amp;= w^v · I \\ 
+A^{\prime} = softmax(A) &amp;= softmax(K^T Q) \\
+O &amp;= V A^{\prime}
+\end{aligned}
+$$
+&lt;h3 id=&#34;3-multi-head-self-attention&#34;&gt;3. Multi-head Self-attention&lt;/h3&gt;
+&lt;p&gt;different types of relevance&lt;/p&gt;
+&lt;h3 id=&#34;4-self-attention-vs-cnn&#34;&gt;4. Self-attention VS CNN&lt;/h3&gt;
+&lt;p&gt;CNN: self-attention that can only attends in a receptive field&lt;/p&gt;
+&lt;p&gt;self-attention: CNN with learnable receptive field (complex version of CNN)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/1911.03584&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;On the Relationship between Self-Attention and Convolutional Layers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;小样本数据集上CNN模型小更高效 大数据集样本上self-attention往往能找到更多的connection&lt;/p&gt;
+&lt;h3 id=&#34;5-self-attention-vs-rnn&#34;&gt;5. Self-attention VS RNN&lt;/h3&gt;
+&lt;p&gt;RNN递进关系会导致远距离很难考虑 并且 不是平行架构无法加速&lt;/p&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302011216327.png&#34; alt=&#34;image-20230131111746795&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2006.16236&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;6-综述文章&#34;&gt;6. 综述文章&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2009.06732&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Efficient Transformers: A Survey&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2011.04006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Long Range Arena: A Benchmark for Efficient Transformers&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;transformers&#34;&gt;Transformers&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;sequence-to-sequenceseq2seq&#34;&gt;Sequence-to-sequence(seq2seq)&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Input a sequence, output a sequence.&lt;/p&gt;
+&lt;p&gt;The output length is determined by model.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2005.12872&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;seq2seq for object detection &amp;ndash; End-to-End Object Detection with Transformers&lt;/a&gt;&lt;/p&gt;
+&lt;div align=center&gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302020934811.png&#34; alt=&#34;image-20230202093420708&#34; style=&#34;zoom:33%;&#34; /&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;transformers-encoder----self-attention&#34;&gt;Transformer&amp;rsquo;s Encoder &amp;ndash; Self-attention&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;encoder的核心问题 是将一个sequence的向量如何转化为同样长度的向量&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div align=center&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302020943672.png&#34; alt=&#34;image-20230202094355618&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;每一个block的处理顺序&#34;&gt;每一个block的处理顺序&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;self-attention&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;residual connection （防止梯度消失）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;为什么residual block能够防止梯度消失？&lt;/p&gt;
+&lt;div align=center&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302021804498.png&#34; alt=&#34;image-20230202180404456&#34; style=&#34;zoom:80%;&#34; /&gt;
+&lt;/div&gt;
+&lt;p&gt;根据后向传播的链式法则，&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;$$
+\frac{\partial L}{\partial X_{\text{Aout}}} = \frac{\partial L}{\partial X_{\text{Din}}} \cdot \frac{\partial X_{\text{Din}}}{\partial X_{\text{Aout}}}
+$$
+$$
+\because X_{\text{Din}} = X_{\text{Aout}} + C(B(X_{\text{Aout}}))
+$$
+$$
+\frac{\partial L}{\partial X_{\text{Aout}}} = \frac{\partial L}{\partial X_{\text{Din}}} \cdot \left[ 1 + \frac{\partial X_{\text{Din}}}{\partial X_{\text{Cout}}} \frac{\partial X_{\text{Cout}}}{\partial X_{\text{Bout}}} \frac{\partial X_{\text{Bout}}}{\partial X_{\text{Aout}}}\right]
+$$
+$$
+= \frac{\partial L}{\partial X_{\text{Din}}} + \frac{\partial L}{\partial X_{\text{Din}}}\frac{\partial X_{\text{Din}}}{\partial X_{\text{Cout}}} \frac{\partial X_{\text{Cout}}}{\partial X_{\text{Bout}}} \frac{\partial X_{\text{Bout}}}{\partial X_{\text{Aout}}}
+$$
+$$
+= \frac{\partial L}{\partial X_{\text{Din}}} + \text {original loss gradient}
+$$&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;通常微分后都小于1 故原始梯度容易越算越小 到前端就容易消失无法改变&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;norm （layer normalization）同一个向量的不同dimension计算mean和deviation&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;$$
+\begin{bmatrix}
+x_1 &amp;amp; x_2 &amp;amp; \cdots &amp;amp; x_K
+\end{bmatrix}^{T}
+\rightarrow
+\begin{bmatrix}
+x_1^{\prime} &amp;amp; x_2^{\prime} &amp;amp; \cdots &amp;amp; x_K^{\prime}
+\end{bmatrix}^{T}
+$$&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;batch normalization是对同一个dimension不同的feature的mean和variance（不同向量之间的$x_i$的$\mu$）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;[以下是encoder的详细说明](#Transformer&amp;rsquo;s Encoder &amp;ndash; Self-attention)&lt;/p&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302020956666.png&#34; alt=&#34;image-20230202095606545&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;h3 id=&#34;encoder架构的变形&#34;&gt;Encoder架构的变形&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[&lt;a href=&#34;https://arxiv.org/abs/2002.04745&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2002.04745] On Layer Normalization in the Transformer Architecture (arxiv.org)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[&lt;a href=&#34;https://arxiv.org/abs/2003.07845&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2003.07845] PowerNorm: Rethinking Batch Normalization in Transformers (arxiv.org)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;transformers-decoder&#34;&gt;Transformer&amp;rsquo;s decoder&lt;/h2&gt;
+&lt;h3 id=&#34;输出方式----autoregressive-和-non-autoregressive&#34;&gt;输出方式 &amp;ndash; Autoregressive 和 non-autoregressive&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;将decoder的sequence vectors输入decoder&lt;/li&gt;
+&lt;li&gt;autoregressive &amp;ndash; 决定了decoder的输出方式（AT）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;首先在decoder里输入vectors&lt;/li&gt;
+&lt;li&gt;输入begin of sentence（通常为one-hot coding vector）&lt;/li&gt;
+&lt;li&gt;第一个输出为一个长度为想要输出的范围的size长度的vector 再经过softmax得到distribution 取最大值&lt;/li&gt;
+&lt;li&gt;再将第一个输出当成新的输入（改成one-hot coding） 此时decoder输入有bos和之前的输出&lt;/li&gt;
+&lt;li&gt;再得到新的输出&lt;/li&gt;
+&lt;li&gt;以此类推&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302021015182.png&#34; alt=&#34;image-20230202101556039&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302021020250.png&#34; alt=&#34;image-20230202102046116&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;h3 id=&#34;decoder-本身架构&#34;&gt;Decoder 本身架构&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;抛去中间的block 可以看到就是与decoder 相似的主体结构 唯一不同的是masked self-attention，很好理解不能剧透后面的部分。(类似于RNN)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div align=center&gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302021639103.png&#34; alt=&#34;image-20230202163936914&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;eg.&lt;/p&gt;
+&lt;div align=center&gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302021641078.png&#34; alt=&#34;image-20230202164134997&#34; style=&#34;zoom: 33%;&#34; /&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;encoder和decoder如何交互&#34;&gt;Encoder和decoder如何交互？&lt;/h3&gt;
+&lt;div align=center&gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302021655592.png&#34; alt=&#34;image-20230202165550501&#34; style=&#34;zoom:45%;&#34; /&gt;
+&lt;/div&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302021700358.png&#34; alt=&#34;image-20230202170044216&#34; style=&#34;zoom: 67%;&#34; /&gt;
+&lt;ul&gt;
+&lt;li&gt;cross layer 可以用不同类型&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[&lt;a href=&#34;https://arxiv.org/abs/2005.08081&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2005.08081] Rethinking and Improving Natural Language Generation with Layer-Wise Multi-View Decoding (arxiv.org)&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;training&#34;&gt;Training&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Loss: 每一个词汇的ground truth 和 decoder inference 之后的结果 计算cross entropy&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;teacher-forcing&#34;&gt;Teacher Forcing&lt;/h3&gt;
+&lt;p&gt;为了更好的训练decoder 防止encoder的error propagation 所以会使用把正确结果放进decoder的输入看能不能输出正确结果&lt;/p&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302021749300.png&#34; alt=&#34;image-20230202174931088&#34; style=&#34;zoom: 50%;&#34; /&gt;
+&lt;h3 id=&#34;scheduled-sampling&#34;&gt;Scheduled Sampling&lt;/h3&gt;
+&lt;p&gt;为了避免没有泛化能力 就给decoder的输入放一些故意的错误（原理有点类似于神经网路 dropout）&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[&lt;a href=&#34;https://arxiv.org/abs/1906.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1906.07651] Scheduled Sampling for Transformers (arxiv.org)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;https://arxiv.org/abs/1906.04331&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1906.04331] Parallel Scheduled Sampling (arxiv.org)&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;tips&#34;&gt;Tips&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;copy mechanism&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;guided attention ？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Beam Search ？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Optimizing evaluation metrics？ &amp;ndash; BLEU score&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;只能用在testing 的evaluation 不能用在loss是因为不可微 不能反向传递&lt;/li&gt;
+&lt;li&gt;when you don&amp;rsquo;t know how to optimize, just use reinforcement learning!!!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;把BLEU score看成reward 把decoder看成agent&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[&lt;a href=&#34;https://arxiv.org/abs/1511.06732&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1511.06732] Sequence Level Training with Recurrent Neural Networks (arxiv.org)&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;图片来源：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1v3411r78R?p=1&amp;amp;vd_source=0da602efaef9a75c3e62c481d182f95c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.【李宏毅机器学习2021】自注意力机制 (Self-attention) (上)_哔哩哔哩_bilibili&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
@@ -86,9 +822,6 @@
 &lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
 &lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
     </item>
     
