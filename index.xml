@@ -33,6 +33,65 @@
     </item>
     
     <item>
+      <title>Preparation of Meeting in differencial privacy in reinforcement learning</title>
+      <link>https://keeplearning-again.github.io/post/20230326_differencial_privacy/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://keeplearning-again.github.io/post/20230326_differencial_privacy/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202303261817421.png&#34; alt=&#34;DP_Page1&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202303261817062.png&#34; alt=&#34;DP_Page2&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Some interesting findings of attention mechanism history</title>
+      <link>https://keeplearning-again.github.io/post/attention%E6%9C%BA%E5%88%B6%E6%BA%AF%E6%BA%90/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://keeplearning-again.github.io/post/attention%E6%9C%BA%E5%88%B6%E6%BA%AF%E6%BA%90/</guid>
+      <description>&lt;h2 id=&#34;明确chatgpt能解决问题的边界&#34;&gt;明确ChatGPT能解决问题的边界&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Typora&#43;Markdown快速入门</title>
       <link>https://keeplearning-again.github.io/post/markdown&#43;typora/</link>
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
@@ -872,7 +931,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-254983716&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-986415372&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -882,7 +941,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-254983716&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-986415372&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1501,6 +1560,14 @@ $$&lt;/p&gt;
       <link>https://keeplearning-again.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://keeplearning-again.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://keeplearning-again.github.io/post/%E8%BD%A6%E9%81%93%E7%BA%BF%E8%AE%BA%E6%96%87%E5%A4%A7%E5%90%88%E9%9B%86/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://keeplearning-again.github.io/post/%E8%BD%A6%E9%81%93%E7%BA%BF%E8%AE%BA%E6%96%87%E5%A4%A7%E5%90%88%E9%9B%86/</guid>
       <description></description>
     </item>
     

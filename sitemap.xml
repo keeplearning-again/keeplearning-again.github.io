@@ -11,7 +11,23 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://keeplearning-again.github.io/tag/academic/</loc>
-    <lastmod>2022-12-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://keeplearning-again.github.io/post/</loc>
+    <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://keeplearning-again.github.io/post/20230326_differencial_privacy/</loc>
+    <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://keeplearning-again.github.io/tags/</loc>
+    <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://keeplearning-again.github.io/post/attention%E6%9C%BA%E5%88%B6%E6%BA%AF%E6%BA%90/</loc>
+    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://keeplearning-again.github.io/categories/</loc>
@@ -19,14 +35,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://keeplearning-again.github.io/category/demo/</loc>
-    <lastmod>2022-12-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://keeplearning-again.github.io/post/</loc>
-    <lastmod>2022-12-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://keeplearning-again.github.io/tags/</loc>
     <lastmod>2022-12-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -135,6 +143,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://keeplearning-again.github.io/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://keeplearning-again.github.io/post/%E8%BD%A6%E9%81%93%E7%BA%BF%E8%AE%BA%E6%96%87%E5%A4%A7%E5%90%88%E9%9B%86/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
