@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:keeplearning-again/keeplearning-again.github.io.git
+	branch = main
