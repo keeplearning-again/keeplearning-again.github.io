@@ -1,0 +1,289 @@
+[
+  {
+    "id": "echopilot",
+    "year": 2026,
+    "date": "2026-09",
+    "venue": "MICCAI 2026",
+    "badge": "Early acceptance",
+    "featured": true,
+    "title": "EchoPilot: Training-Free Ultrasound Video Segmentation via Scale-Space Semantic Prompting and Reliability-Gated Memory",
+    "authors": [
+      "Ruiqiang Xiao",
+      "Zhaohu Xing",
+      "Yijun Yang",
+      "Zhenyan Han",
+      "Weiming Wang",
+      "Kaishun Wu",
+      "Lei Zhu"
+    ],
+    "summary": "One point and an anatomical category name guide frozen foundation models, with scale-aware prompting and gated memory for stable ultrasound video segmentation.",
+    "topics": [
+      "Medical imaging",
+      "Video",
+      "Multimodal AI"
+    ],
+    "image": "/assets/homepage/images/echopilot.png",
+    "image_alt": "EchoPilot task setting: one point and an anatomical category guide ultrasound video segmentation.",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2605.25944",
+      "Project": "https://keeplearning-again.github.io/EchoPilot/",
+      "Code": "https://github.com/keeplearning-again/EchoPilot"
+    },
+    "sources": [
+      "https://papers.miccai.org/miccai-2026/0332-Paper1265.html",
+      "https://keeplearning-again.github.io/EchoPilot/"
+    ],
+    "image_source": "https://keeplearning-again.github.io/EchoPilot/assets/teaser.png"
+  },
+  {
+    "id": "dstd",
+    "year": 2026,
+    "date": "2026-09",
+    "venue": "MICCAI 2026",
+    "title": "Discriminative Synergistic Temporal Diffusion for Ultrasound Video Thyroid Nodule Segmentation",
+    "authors": [
+      "Jialu Li",
+      "Hongqiu Wang",
+      "Junpu Hu",
+      "Ruiqiang Xiao",
+      "Ying Hu",
+      "Faqin Lv",
+      "Qiong Wang",
+      "Lei Zhu"
+    ],
+    "summary": "Timestep-dependent motion and texture guidance help a diffusion model delineate small thyroid nodules and ambiguous boundaries in ultrasound videos.",
+    "topics": [
+      "Medical imaging",
+      "Video"
+    ],
+    "image": "/assets/homepage/images/dstd.png",
+    "image_alt": "DSTD architecture with motion perception, texture perception and a synergistic controller.",
+    "links": {
+      "Paper": "https://papers.miccai.org/miccai-2026/0288-Paper1074.html",
+      "PDF": "https://papers.miccai.org/miccai-2026/paper/1074_paper.pdf"
+    },
+    "sources": [
+      "https://papers.miccai.org/miccai-2026/0288-Paper1074.html"
+    ],
+    "image_source": "https://papers.miccai.org/miccai-2026/paper/1074_paper.pdf#page=3"
+  },
+  {
+    "id": "vivim",
+    "year": 2026,
+    "date": "2026-07-10",
+    "venue": "npj Digital Medicine",
+    "featured": true,
+    "title": "Real-time anatomy recognition in laparoscopic liver resection using video segmentation AI model",
+    "authors": [
+      "Haisu Tao",
+      "Kangwei Guo",
+      "Yijun Yang",
+      "Xincheng Yao",
+      "Ruiqiang Xiao",
+      "Xiaojun Zeng",
+      "Xuanshuang Tang",
+      "Lei Zhu",
+      "Yinling Qian",
+      "Jian Yang"
+    ],
+    "summary": "A Mamba-based video segmentation model recognizes surgical anatomy in real time, evaluated on multicenter liver surgery videos and with surgeons.",
+    "topics": [
+      "Medical imaging",
+      "Video"
+    ],
+    "image": "/assets/homepage/images/npj-vivim.jpg",
+    "image_alt": "Vivim encoder-decoder and spatiotemporal Mamba scan for surgical anatomy recognition.",
+    "links": {
+      "Paper": "https://www.nature.com/articles/s41746-026-02989-5",
+      "PDF": "https://www.nature.com/articles/s41746-026-02989-5_reference.pdf"
+    },
+    "sources": [
+      "https://www.nature.com/articles/s41746-026-02989-5",
+      "https://pubmed.ncbi.nlm.nih.gov/42432115/",
+      "https://api.crossref.org/works/10.1038/s41746-026-02989-5"
+    ],
+    "image_source": "https://www.nature.com/articles/s41746-026-02989-5_reference.pdf#page=37"
+  },
+  {
+    "id": "cardio-mmflow",
+    "year": 2026,
+    "date": "2026-07",
+    "venue": "ICML 2026",
+    "title": "Cardio-mmFlow: A Gaussian-Prior-Free Physics-Informed Flow Matching Framework for Electrocardiogram to mmWave Radar Synthesis",
+    "authors": [
+      "Ziyang Liu",
+      "Ruiqiang Xiao",
+      "Chang Huang",
+      "Kieren Yu",
+      "Siyuan He",
+      "Kaishun Wu"
+    ],
+    "summary": "Physics-informed flow matching translates ECG into personalized mmWave radar signals to support contactless cardiac monitoring with synthetic training data.",
+    "topics": [
+      "Multimodal AI"
+    ],
+    "image": "/assets/homepage/images/cardio.png",
+    "image_alt": "Cardio-mmFlow transports ECG latents into radar latents through a physics-informed flow.",
+    "links": {
+      "Paper": "https://proceedings.mlr.press/v306/liu26ey.html",
+      "PDF": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26ey/liu26ey.pdf"
+    },
+    "sources": [
+      "https://proceedings.mlr.press/v306/liu26ey.html"
+    ],
+    "image_source": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26ey/liu26ey.pdf#page=4"
+  },
+  {
+    "id": "hypercbm",
+    "year": 2026,
+    "date": "2026-06-01",
+    "venue": "arXiv 2026",
+    "status": "Preprint",
+    "title": "Learning Label-Efficient Interpretable Medical Image Diagnosis via Semi-supervised Hypergraph Concept Bottleneck Model",
+    "authors": [
+      "Yijun Yang",
+      "Ruiqiang Xiao",
+      "Lijie Hu",
+      "Angelica I. Aviles-Rivero",
+      "Yunzhu Wu",
+      "Jing Qin",
+      "Lei Zhu"
+    ],
+    "summary": "Dual-level hypergraphs model relationships between clinical concepts and generate pseudo-labels for interpretable diagnosis with fewer expert concept annotations.",
+    "topics": [
+      "Medical imaging"
+    ],
+    "image": "/assets/homepage/images/hypercbm.png",
+    "image_alt": "HyperCBM combines concept-level and image-level hypergraphs for interpretable medical diagnosis.",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2606.01698",
+      "Code": "https://github.com/LoDeResearch/HyperCBM"
+    },
+    "sources": [
+      "https://arxiv.org/abs/2606.01698",
+      "https://github.com/LoDeResearch/HyperCBM"
+    ],
+    "image_source": "https://arxiv.org/html/2606.01698v1/concept_hypergraph_update.png"
+  },
+  {
+    "id": "osmt",
+    "year": 2026,
+    "date": "2026",
+    "venue": "ICDE 2026",
+    "title": "OsmT: Bridging OpenStreetMap Queries and Natural Language with Open-source Tag-aware Language Models",
+    "authors": [
+      "Zhuoyue Wan",
+      "Wentao Hu",
+      "Chen Jason Zhang",
+      "Yuanfeng Song",
+      "Shuaimin Li",
+      "Ruiqiang Xiao",
+      "Xiao-Yong Wei",
+      "Raymond Chi-Wing Wong"
+    ],
+    "summary": "Tag-aware language models generate and explain OpenStreetMap queries, using retrieval augmentation to connect natural language with structured geospatial data.",
+    "topics": [
+      "Language models"
+    ],
+    "image": "/assets/homepage/images/osmt.png",
+    "image_alt": "OsmT framework for natural language and OverpassQL query translation.",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2512.04738"
+    },
+    "sources": [
+      "https://scholar.google.com/citations?user=C8e74qIAAAAJ&hl=en",
+      "https://arxiv.org/abs/2512.04738"
+    ],
+    "image_source": "https://arxiv.org/html/2512.04738v1/framework_v1.png"
+  },
+  {
+    "id": "hrvvs",
+    "year": 2025,
+    "date": "2025-09",
+    "venue": "MICCAI 2025",
+    "title": "HRVVS: A High-resolution Video Vasculature Segmentation Network via Hierarchical Autoregressive Residual Priors",
+    "authors": [
+      "Xincheng Yao",
+      "Yijun Yang",
+      "Kangwei Guo",
+      "Ruiqiang Xiao",
+      "Haipeng Zhou",
+      "Haisu Tao",
+      "Jian Yang",
+      "Lei Zhu"
+    ],
+    "summary": "Autoregressive visual priors and a dynamic memory decoder preserve vessel detail across high-resolution liver surgery video frames.",
+    "topics": [
+      "Medical imaging",
+      "Video"
+    ],
+    "image": "/assets/homepage/images/hrvvs.png",
+    "image_alt": "HRVVS hierarchical encoder with autoregressive residual priors and a dynamic memory decoder.",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2507.22530",
+      "Code": "https://github.com/scott-yjyang/HRVVS"
+    },
+    "sources": [
+      "https://arxiv.org/abs/2507.22530",
+      "https://conferences.miccai.org/2025/files/downloads/MICCAI2025-Program-Book.pdf"
+    ],
+    "image_source": "https://arxiv.org/html/2507.22530v1/Framework_hrvvs.png"
+  },
+  {
+    "id": "matchseg",
+    "year": 2024,
+    "date": "2024-12",
+    "venue": "IEEE BIBM 2024",
+    "title": "MatchSeg: Towards Better Segmentation via Reference Image Matching",
+    "authors": [
+      "Jiayu Huo",
+      "Ruiqiang Xiao",
+      "Haotian Zheng",
+      "Yang Liu",
+      "Sébastien Ourselin",
+      "Rachel Sparks"
+    ],
+    "summary": "CLIP selects relevant reference images, while joint attention transfers support-set information for medical segmentation and cross-domain generalization.",
+    "topics": [
+      "Medical imaging",
+      "Multimodal AI"
+    ],
+    "image": "/assets/homepage/images/matchseg.png",
+    "image_alt": "MatchSeg reference image selection and joint attention between support and query features.",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2403.15901",
+      "Code": "https://github.com/keeplearning-again/MatchSeg"
+    },
+    "sources": [
+      "https://arxiv.org/abs/2403.15901"
+    ],
+    "image_source": "https://arxiv.org/html/2403.15901v3/main_framework_v3.png"
+  },
+  {
+    "id": "irfusionformer",
+    "year": 2024,
+    "date": "2024-11",
+    "venue": "BMVC 2024 · DIFA Workshop",
+    "badge": "Best Paper Award",
+    "title": "IRFusionFormer: Enhancing Pavement Crack Segmentation with RGB-T Fusion and Topological-Based Loss",
+    "authors": [
+      "Ruiqiang Xiao",
+      "Xiaohu Chen"
+    ],
+    "summary": "RGB and thermal features are fused with cross-modal supervision and a topology-aware loss to preserve crack connectivity under challenging imaging conditions.",
+    "topics": [
+      "Multimodal AI"
+    ],
+    "image": "/assets/homepage/images/irfusionformer.png",
+    "image_alt": "IRFusionFormer fuses RGB and thermal imaging through interaction and hybrid branch supervision.",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2409.20474",
+      "Code": "https://github.com/sheauhuu/IRFusionFormer"
+    },
+    "sources": [
+      "https://arxiv.org/abs/2409.20474",
+      "https://bmvc2024.org/proceedings/workshop-proceedings/"
+    ],
+    "image_source": "https://arxiv.org/html/2409.20474v1/images/framework.png"
+  }
+]
