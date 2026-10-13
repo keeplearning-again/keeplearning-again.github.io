@@ -1,6 +1,6 @@
 # Ruiqiang Xiao 个人主页
 
-新版主页面向学术同行，展示 HKUST (Guangzhou) 博士二年级身份、导师、JD.com 实习、研究方向、News，以及 9 项带图片和简述的论文。视觉采用暖白、浅沙、石墨与铜色，使用圆润无衬线字体。发布地址：<https://keeplearning-again.github.io/>，GitHub Pages 使用 `master` 分支根目录。
+新版主页面向学术同行，展示 HKUST (Guangzhou) 博士二年级身份、导师、JD.com 实习、研究方向、News，以及 9 项带图片和简述的论文。视觉采用暖白、浅沙、石墨与铜色，使用圆润无衬线字体。发布地址：<https://keeplearning-again.github.io/>，GitHub Pages 使用 `main` 分支根目录。
 
 ## 查看与维护
 

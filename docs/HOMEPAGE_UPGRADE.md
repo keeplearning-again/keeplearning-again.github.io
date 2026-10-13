@@ -1,6 +1,6 @@
 # 个人主页升级说明
 
-更新日期：2026-10-13。此版用于发布到 <https://keeplearning-again.github.io/>，GitHub Pages 使用 `master` 分支根目录。
+更新日期：2026-10-13。此版用于发布到 <https://keeplearning-again.github.io/>，GitHub Pages 使用 `main` 分支根目录。原 `github_pages` 已包含在 `master` 历史中；旧 `main` 为独立初始化的历史，合并时保留两条历史，冲突处采用此次新版主页。
 
 ## 当前展示
 
